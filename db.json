@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Product One",
+    "description": "This is a description for product one"
+  },
+  {
+    "id": 2,
+    "title": "Product Two",
+    "description": "This is a description for product one"
+  },
+  {
+    "id": 3,
+    "title": "Product Three",
+    "description": "This is a description for product one"
+  }
+]

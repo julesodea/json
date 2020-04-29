@@ -1,14 +1,40 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is the description of the item post one",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is the description of the item post two",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is the description of the item post three",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    },
+    {
+      "id": 4,
+      "title": "Post 1",
+      "description": "this is the description of the item post four",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    },
+    {
+      "id": 5,
+      "title": "Post 2",
+      "description": "this is the description of the item post five",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    },
+    {
+      "id": 6,
+      "title": "Post 2",
+      "description": "this is the description of the item post six",
+      "imgSrc": "https://source.unsplash.com/user/erondu/800x450"
+    }
+  ]
 }
